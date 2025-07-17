@@ -1,2 +1,2 @@
 # Project-1
-This is spotify fronted created with html,css.
+This is project spotify fronted created with html,css.
